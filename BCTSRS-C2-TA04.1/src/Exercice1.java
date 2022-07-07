@@ -4,7 +4,7 @@
  * @author Roger Rubio Rufaste
  *
  */
-public class exercice1 {
+public class Exercice1 {
 	
 	/**
 	 * The main method adds, subtracts, multiplies, divides and makes the module of the two created variables.
